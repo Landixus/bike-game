@@ -28,4 +28,4 @@ For example: if the bike is above the goal RPM (defined as a constant in the cod
 <img src="/photos/pcb1.jpg?raw=true" alt="main view" width="200"> <img src="/photos/speed_sensor.jpg?raw=true" alt="speed sensor" width="200"> <img src="/photos/steering_sensor.jpg?raw=true" alt="steering sensor" width="200">
 
 ### NOTE:
-The next phase of this project was intended to be adding capacitive touch sensor to the bike's handlebar for more game control (like activating turbo) and also to add a fan that blows air on the biker at a strength relative to their bike speed.  Preliminary development of this portion of the project was started but not fully completed.
+The next phase of this project would be to add capacitive touch sensor to the bike's handlebar for more game control (like activating turbo) and also to add a fan that blows air on the biker at a strength relative to their bike speed.  Preliminary development of this portion of the project was started and built into the PCB.
