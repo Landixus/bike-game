@@ -14,6 +14,7 @@ For example: if the bike is above the goal RPM (defined as a constant in the cod
 * The system is able to control any racing computer game that can be controlled by arrow keys.
 * The faster the biker pedals, the faster the race car will go
 * The sharper the biker turns, the sharper the rac car will turn
+* Read the project poster [here](https://github.com/danielengbert/bike-game/blob/master/project_poster.pdf)
 
 ### REQUIREMENTS:
 * Arduino Leonardo
