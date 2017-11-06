@@ -21,7 +21,7 @@ For example: if the bike is above the goal RPM (defined as a constant in the cod
   * and a few resistors and cables
 * hall effect sensor
 * neodymium magnet
-* 1 IR emmiter and 2 IR receivers
+* 1 IR emmiter and 2 IR receivers (serve as a photointerrupter for the steering)
 * lazy susan (for the bike's front tire)
 * bike and stationary bike stand
 
