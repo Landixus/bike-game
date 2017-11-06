@@ -1,6 +1,6 @@
 # Arduino Bike Game
-<img src="/photos/main_view.jpg?raw=true" alt="main view" width="350">
 My 2015 [High School](http://www.scienceandmathacademy.com/) Capstone Project with mentorship from Christopher Rogers.
+<img src="/photos/main_view.jpg?raw=true" alt="main view" width="350">
 
 ### PURPOSE:
 To enable a stationary bike to control computer games so that a biker can race in a game while exercising.
