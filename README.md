@@ -1,4 +1,6 @@
-# [Arduino Bike Game](https://youtu.be/r04d039daLk)
+# Arduino Bike Game
+[Watch the video demo here](https://youtu.be/r04d039daLk)
+
 My 2015 [High School](http://www.scienceandmathacademy.com/) Capstone Project with mentorship from Christopher Rogers.
 <img src="/photos/main_view.jpg?raw=true" alt="main view" width="350"> <img src="/photos/pcb1.jpg?raw=true" alt="main view" width="200"> 
 
@@ -10,11 +12,10 @@ The Arduino Leonardo is plugged into a computer where it emulates a keyboard and
 For example: if the bike is above the goal RPM (defined as a constant in the code) then it will effectively press the up arrow continously; and at 50% of the goal speed the up arrow will be pressed 50% of the time on average by the Leonardo.
 
 ### RESULTS:
-[Video demo](https://youtu.be/r04d039daLk)
 * The system is able to control any racing computer game that can be controlled by arrow keys.
-* The faster the biker pedals, the faster the race car will go
-* The sharper the biker turns, the sharper the rac car will turn
-* Read the project poster [here](https://github.com/danielengbert/bike-game/blob/master/project_poster.pdf)
+* The faster the biker pedals, the faster the race car will go.
+* The sharper the biker turns, the sharper the rac car will turn.
+* Read the [project poster](https://github.com/danielengbert/bike-game/blob/master/project_poster.pdf) and watch the [video demo](https://youtu.be/r04d039daLk).
 
 ### REQUIREMENTS:
 * Arduino Leonardo
